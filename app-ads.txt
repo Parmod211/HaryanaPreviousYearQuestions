@@ -1,0 +1,11 @@
+# app-ads.txt for Haryana Previous Year Questions Android App
+# Publisher: educationhub
+# AdMob Publisher ID: pub-1683273021222349
+# 
+# This file must be hosted at:
+# https://<your-developer-website.com>/app-ads.txt
+#
+# Format: <ad system domain>, <publisher ID>, DIRECT, <certification authority ID>
+#
+# Google AdMob / Google Ad Manager - DIRECT entry
+google.com, pub-1683273021222349, DIRECT, f08c47fec0942fa0
